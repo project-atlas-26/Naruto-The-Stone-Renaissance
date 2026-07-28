@@ -1,0 +1,1 @@
+# She is a Chunin from the branch family. Sent to honeypot Kitsuchi.
