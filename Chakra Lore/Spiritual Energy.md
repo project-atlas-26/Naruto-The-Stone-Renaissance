@@ -1,0 +1,4 @@
+# It is the Embodiment of Intent, Information and Soul.
+# It is hypothesized by the [[Main Character]] to be from the Genomes that record information that is present in every cell in our body.
+# Initial misconceptions about immortality and eternal youth stemmed from the Idea that Seemingly infinite [[Physical Energy]] could lead to immortality. However the longevity provided by the quantity of physical energy cannot last a seemingly infinite span of time, as the body's cells undergo death over and over again possibilities for the cellular genome to be damaged is a greater risk the longer one lives.
+# This is the reason the Otsutsuki harvest planet after planet trying to obtain a variant of genetic material to  graft the aspect of the Genetic ability for self replication to contain the whole sequence rather than a subsequence that shortens over time. 
