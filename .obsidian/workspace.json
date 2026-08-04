@@ -182,10 +182,11 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "dce3a7eb807fee01",
+  "active": "2895e344472f0d6c",
   "lastOpenFiles": [
     "Chakra Lore/Chakra.md",
     "Untitled.md",
