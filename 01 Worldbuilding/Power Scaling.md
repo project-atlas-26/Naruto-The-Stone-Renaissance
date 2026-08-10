@@ -1,18 +1,13 @@
-# The Power System is Divided in Groups
-## The Shinobi Rank
-### The Shinobi Rank is Divided as Follows : 
-| Sl.no | Rank          | Chakra Rating |
-| ----- | ------------- | ------------- |
-| 1.    | Reserve Genin |               |
-| 2.    |               |               |
-| 3.    |               |               |
-| 4.    |               |               |
-| 5.    |               |               |
-| 6.    |               |               |
-| 7.    |               |               |
-| 8.    |               |               |
-| 9.    |               |               |
-| 10.   |               |               |
-
-## The Jutsu Rank
-## The Mission Rank
+| Sl.no | Rank            | Chakra Rating |
+| ----- | --------------- | ------------- |
+| 1.    | Academy Student |               |
+| 2.    | Reserve Genin   |               |
+| 3.    | Genin           |               |
+| 4.    | Chunin          |               |
+| 5.    | Elite Chunin    |               |
+| 6.    | Special Jonin   |               |
+| 7.    | Jonin           |               |
+| 8.    | Elite Jonin     |               |
+| 9.    | Kage            |               |
+| 10.   | Genkai          |               |
+| 11.   |                 |               |
