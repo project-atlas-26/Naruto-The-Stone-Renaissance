@@ -1,2 +1,2 @@
 # He is a Iwagakure resident.
-# He is the Grandson of Tsuchikage Ōnoki. Son of Kitsuchi and a Hyuga Branch Member "[[Hana Hyuga]]" a Chunin spy
+# He is the Grandson of Tsuchikage [[Ōnoki]]. Son of Kitsuchi and a Hyuga Branch Member [[Hana Hyuga]] a Chunin spy 'lost' by Konoha to Iwagakure to Honeypot [[Kitsuchi]].
