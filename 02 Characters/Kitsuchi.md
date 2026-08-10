@@ -3,9 +3,9 @@
 ### - Undisclosed female Character
 
 # Spouse :
-### - Hana Hyūga - [[Main Character]]'s Mother
+### - Hana Hyūga - [[Atsuhiro]]'s Mother
 ### - Undisclosed Female - [[Kurotsuchi]]'s Mother
 
 # Children :
-### - [[Main Character]]
+### - [[Atsuhiro]]
 ### - [[Kurotsuchi]]
