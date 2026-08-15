@@ -1,15 +1,23 @@
-- Chakra is a Attribute Neutral, Programmable, Energy Substrate that can take on infinitely many shapes and forms only limited by the imagination of the user and their physical vessel.
-- Chakra Consists of [[Physical Energy]] and [[Spiritual Energy]] in equal parts, i.e. every unit of chakra consists of one half unit of [[Physical Energy]] and the other half [[Spiritual Energy]].
-- Chakra flows through the body in chakra pathways/coils, which are blood vessels capable of carrying chakra. All chakra coils have resistance that hinders the flow of chakra through it. Through conscious usage and deliberate practice this resistance can be worn down, aiding in smoother flow of chakra, increase in volume, etc...
-## Chakra Formation
+- Chakra is an attribute-neutral, programmable, energy substrate that can take on infinitely many shapes and forms only limited by the imagination of the user and their physical vessel.
+- Attribute-neutral just means that chakra does not have any inherent nature (fire, water, wind, etc...).
+- Chakra is programmable in the sense that, when imbued with intent, it can assume the intended shape or property without inherently rejecting the transformation, much like how clay accepts shapes imposed upon it and colors infused into it.
+- Chakra is the equal fusion of [[Physical Energy]] and [[Spiritual Energy]] at a fundamental level.
+- Chakra flows through the body via chakra pathways, also called chakra coils, which are blood vessels capable of carrying chakra.
+- All chakra coils have resistance that hinders the flow of chakra through them. Through conscious usage and deliberate practice this resistance can be worn down, aiding in smoother flow of chakra, increase in throughput, etc...
+## Chakra Production
 
-- Chakra is formed from the fusion of the Energy substrates of physical and spiritual energies. This is a process that happens throughout the body.
-- Chakra cannot be created voluntarily, It should happen on an instinctual level in the body. The Body 'learning' to combine the information and energy substrates by itself is the 'unlocking of chakra' in an individual.
-- When a person with chakra infuses chakra into a person without chakra the body instinctually tries to achieve the neutral, stable and higher order substrate. when enough chakra is passed through the body, the cells in the body instinctually 'learns' to fuse the Physical and Energy Substrates inside itself.
-- The body part that is most influenced by external stimuli 'the brain' is the easiest place to unlock a person's chakra as brain automatically 'rewires' itself physically to accommodate the changes in a short span of time.
-# Flow of Chakra
+- Chakra is formed from the fusion of the Physical and Spiritual Energy substrates. This process occurs throughout the body at a cellular scale; i.e., each cell can fuse its own Physical and Spiritual Energy substrates to produce minuscule amounts of chakra. These minuscule amounts of chakra, when produced by the trillions of cells in the body, become significant enough for various uses.
+- Chakra cannot be created voluntarily; the process must occur at an instinctual level within the body. The body “learning” to combine the Physical and Spiritual Energy substrates by itself is what constitutes the “unlocking of chakra” in an individual, and this 'learning' cannot happen without external stimuli; Namely, a person with chakra has to infuse their neutral chakra into the person without chakra over a sustained period of time to 'unlock' their chakra.
+- When 'unlocking chakra', the body instinctually attempts to achieve the infused, neutral, more stable, higher-order substrate (chakra). When enough chakra passes through the body continuously for a prolonged period, the cells instinctually “learn” to fuse the Physical and Spiritual Energy substrates within themselves.
+- The brain, being the part of the body most easily influenced by external stimuli, is the easiest place to begin unlocking a person’s chakra, as the brain automatically “rewires” itself to accommodate such changes over a short period of time. Therefore, when attempting to unlock someone’s chakra, chakra should first be infused into the brain and then distributed throughout the rest of the body for the best results.
+- It should be noted that the cellular fusion of physical and spiritual energy is involuntary; however, initiating the physiological process that causes the cells to perform this fusion is voluntary. This is because chakra production consumes cellular vitality, placing a considerable additional burden on the cells and making continuous chakra generation impractical, as cells subjected to such excessive strain may die faster than the body can replace them.
+# Chakra Pathways
 
-- The Flow of chakra inside the body of a person is completely voluntary and infusion of the chakra is a rejuvenating phenomenon that strengthens Bones, Muscles, Skin Tissues, organs etc... 
-- Most of the Shinobi try to gather and pool the chakra into their abdomen to facilitate a easier access and more familiar control. This redirection of chakra causes the flow to have bottlenecks in certain places in the body known as gates.
-- The Gates regulate the flow of Chakra inside the body acting as choke points that prevent the body from overusing chakra at once. This is also the premise of the Kin-Nin-Taijutsu (Forbidden Ninja Combat Technique) 'Eight Gates'.
-- This also creates a deficiency in the exploration of the chakra pathways outside the required areas like hands and legs, leading to poor chakra control efficiency, leading to the requirement of visualization and hand seals to effectively control Chakra.
+- Chakra naturally exhibits a fluid-like flow common to most energy media through the chakra pathways, though its movement is entirely subject to the user's conscious control.
+- Shinobi are taught to gather and pool their chakra in the abdomen first, as this is the established method of chakra control and provides easier access and a standardized means of control. This redirection of chakra creates bottlenecks at certain points in the body's chakra pathways, known as gates.
+- The Gates regulate the flow of Chakra inside the body, acting as choke points that prevent excessive amounts of chakra from flowing through the body at once. This principle also forms the basis of the Kin-Nin-Taijutsu (Forbidden Ninja Combat Technique) “Eight Gates.”
+- This also results in the underdevelopment of chakra pathways outside commonly used areas, such as the hands and legs, leading to greater complexity in chakra control and creating a need for visualization and hand seals to effectively control chakra's Nature and Shape.
+- This is why the Ōtsutsuki can perform any technique without hand seals. They can instinctively control chakra shape and imbue it with intent directly without visualization, though hand seals and visualization still ease and hasten the process.
+# Chakra Storage
+- Chakra cannot be stored within the bodies of human beings or Ōtsutsuki physiologically. External mechanisms such as, Fūinjutsu seals, can store chakra, as demonstrated by the Tetragram Seal of the Uzumaki Clan. This can also be taken a step further, like the Yin Seal used by Tsunade Senju and Mito Uzumaki, which both stores and circulates chakra throughout the body.
+# Chakra Nature
