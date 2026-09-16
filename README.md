@@ -1,2 +1,1 @@
-# Naruto-The-Stone-Renaissance
-This is a space for brainstorming and storing the lore bible of a Naruto Fan Fiction Project that I am working on.
+#### This is a Meta Information Space for the Naruto Fan-Fiction named **Naruto : The Stone Renaissance**.
