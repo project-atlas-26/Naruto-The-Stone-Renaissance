@@ -1,0 +1,2 @@
+The Lightning Nation is ruled by the [[Lightning Daimyo]] and the leader of the shinobi of this nation is the [[Raikage]].
+The Common practice of this country is the Letter Selection ceremony of every generation. The Strongest person of the Generation is named A and the person with the most compatibility with A is named B. They are paired together for their lifetime and undergo intensive team training including combination Nin-Taijutsu, the most infamous among them being the [[Double-Lariat]]

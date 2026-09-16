@@ -1,0 +1,1 @@
+The Water Nation is ruled by the [[Water Daimyo]] and the Head of the Shinobi of this nation is the [[Mizukage]]

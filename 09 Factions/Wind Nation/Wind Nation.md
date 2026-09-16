@@ -1,0 +1,1 @@
+The Wind Nation is ruled by the [[Wind Daimyo]] and the Head of the Shinobi of this Nation is the [[Kazekage]].

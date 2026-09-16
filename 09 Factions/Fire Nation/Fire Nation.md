@@ -1,0 +1,1 @@
+The Entire Fire Nation is ruled by the [[Fire Daimyo]] with the Ninja Head being [[Hokage]]. He is deputed by the Leader of the [[Root]] [[Shimura Danzo]].

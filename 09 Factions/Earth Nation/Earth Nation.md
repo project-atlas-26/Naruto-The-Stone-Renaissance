@@ -1,0 +1,1 @@
+The Earth Nation is ruled nominally by the [[Earth Daimyo]] and the Leader of the Shinobi of this nation is the [[Tsuchikage]].

@@ -1,0 +1,2 @@
+# 複合性質血継 (Fukugō Seishitsu Kekkei Genkai) or Composite Nature Bloodline Inheritance(s)
+- This refers to the subsection of the Bloodline Inheritances that involve inheriting the low resistance chakra pathways that correspond to the composite or derived chakra natures. ^composite-nature-bloodlines-definition
